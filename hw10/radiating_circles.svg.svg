@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+  height="512" width="512" viewBox="0 0 512 512">
+
+ 
+
+  <!-- 畫小圓 -->
+
+  <circle cx="256" cy="544" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="512" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="480" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="448" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="416" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="384" r="32" fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="352" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="320" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="288" r="32"  fill="none" stroke="#7fffd4"/>
+
+  <circle cx="256" cy="256" r="32"  fill="none" stroke="#7fffd4"/>
+
+  <circle cx="256" cy="224" r="32" fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="192" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="160" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="128" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="96" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="64" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="32" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="0" r="32"  fill="none" stroke="#7fffd4"/>
+  <circle cx="256" cy="-32" r="32"  fill="none" stroke="#7fffd4"/>
+
+
+  <!-- 下 畫大圓 -->
+  <circle cx="256" cy="544" r="32"  fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="512" r="64"  fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="480" r="96"  fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="448" r="128"  fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="416" r="160"  fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="384" r="192" fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="352" r="224" fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="320" r="256" fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="288" r="288"  fill="none" stroke="#00ff7f"/>
+  <circle cx="256" cy="256" r="320"  fill="none" stroke="#00ff7f"/>
+
+  <!-- 上 畫大圓 -->
+ <circle cx="256" cy="224" r="288" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="192" r="256" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="160" r="224" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="128" r="192" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="96" r="160" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="64" r="128" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="32" r="96" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="0" r="64" fill="none" stroke="#006400"/>
+  <circle cx="256" cy="-32" r="32" fill="none" stroke="#006400"/>
+
+
+</svg>
+
+   
